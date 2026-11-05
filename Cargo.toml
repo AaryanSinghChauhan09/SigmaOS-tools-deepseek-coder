@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_tools_deepseek_coder"
+version = "0.1.0"
+edition = "2021"
+description = "DeepSeek Coder autonomous pair-programming assistant, AST code transformations, and unit test generator"
+
+[lib]
+name = "sigmaos_tools_deepseek_coder"
+path = "src/lib.rs"
